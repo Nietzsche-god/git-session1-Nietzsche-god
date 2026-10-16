@@ -19,3 +19,4 @@ A small HTML/CSS/JavaScript starter project used to practice the Git and GitHub 
 ```bash
 git clone https://github.com/Nietzsche-god/git-session1-Nietzsche-god.git
 ```
+Edited on github to try fetch and pull
